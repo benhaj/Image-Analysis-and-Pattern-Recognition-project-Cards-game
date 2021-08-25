@@ -1,4 +1,6 @@
-# iapr-project
+# Final project: Analysing cards game.
+
+
 
 
 ## Running the project with a new game:
