@@ -1,6 +1,8 @@
 # Final project: Analysing cards game.
 
+In this project, we will deal with image data consisting of 7 games played with cards; each game contains 13 rounds. The goal of the project is to apply image analysis and pattern recognition methods to be able to output a score depending on the set of rules of the game.
 
+For a detailled description, open project_final_shortened.ipynb
 
 
 ## Running the project with a new game:
